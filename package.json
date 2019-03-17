@@ -1,0 +1,22 @@
+{
+  "name": "mywebportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o assets/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antdroid23/MyWebPortfolio.git"
+  },
+  "author": "Anthony Morrison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antdroid23/MyWebPortfolio/issues"
+  },
+  "homepage": "https://antdroid23.github.io/MyWebPortfolio/",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
